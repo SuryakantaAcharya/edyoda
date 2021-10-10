@@ -1,0 +1,6 @@
+my_dict={}
+for c in range(65, 91): 
+
+        print(chr(c), end = " ")
+        my_dict[chr(c)]=c
+print(my_dict)
