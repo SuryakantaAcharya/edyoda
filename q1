@@ -1,0 +1,2 @@
+value = lambda n:n+25
+print(value(10))
